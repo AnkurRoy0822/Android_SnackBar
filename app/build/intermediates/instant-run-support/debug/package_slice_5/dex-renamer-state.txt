@@ -1,0 +1,4 @@
+#Thu May 31 13:07:07 IST 2018
+base.0=/home/jhumpi/AndroidStudioProjects/SnackBar/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
